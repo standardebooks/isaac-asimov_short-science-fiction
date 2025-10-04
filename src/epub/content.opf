@@ -38,9 +38,10 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short science fiction by Isaac Asimov, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/isaac-asimov"&gt;Isaac Asimov’s&lt;/a&gt; reputation precedes him; his prolific output of science fiction novels and short stories between the 1940s and the 1990s, along with many Hugo and Nebula awards, cemented his reputation as the premier science fiction author of his time. His writing, at least in first half of his career, focused on “hard” science fiction: stories that were broadly founded in realistic science. Indeed, as well as writing fiction, he was a professor of biochemistry, and wrote a wide variety of popular science essays and books.&lt;/p&gt;
+			&lt;p&gt;This collection brings together the few Asimov science fiction short stories that are currently known to have passed into the U.S. public domain, arranged in order of publication. It includes one focused on robots and the positronic brain, a subject that he would return to many times over his career. As more of Asimov’s stories are verified to be in the U.S. public domain the collection will be expanded.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Magnificent Possession (1940) -->
@@ -52,7 +53,6 @@
 		<!-- Let’s Get Together (1957) -->
 		<dc:source>https://www.gutenberg.org/ebooks/68377</dc:source>
 		<dc:source>https://archive.org/details/Infinity_v02n01_1957-02_slpn</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Isaac_Asimov#Short-story_collections</meta>
