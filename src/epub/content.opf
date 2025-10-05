@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/isaac-asimov/short-science-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-10-05T16:47:09Z</dc:date>
+		<meta property="dcterms:modified">2025-10-05T16:47:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,8 +40,8 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short science fiction by Isaac Asimov, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/isaac-asimov"&gt;Isaac Asimov’s&lt;/a&gt; reputation precedes him; his prolific output of science fiction novels and short stories between the 1940s and the 1990s, along with many Hugo and Nebula awards, cemented his reputation as the premier science fiction author of his time. His writing, at least in first half of his career, focused on “hard” science fiction: stories that were broadly founded in realistic science. Indeed, as well as writing fiction, he was a professor of biochemistry, and wrote a wide variety of popular science essays and books.&lt;/p&gt;
-			&lt;p&gt;This collection brings together the few Asimov science fiction short stories that are currently known to have passed into the U.S. public domain, arranged in order of publication. It includes one focused on robots and the positronic brain, a subject that he would return to many times over his career. As more of Asimov’s stories are verified to be in the U.S. public domain the collection will be expanded.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/isaac-asimov"&gt;Isaac Asimov’s&lt;/a&gt; reputation precedes him; his prolific output of science fiction novels and short stories between the 1940s and the 1990s, along with his many Hugo and Nebula awards, cemented his reputation as the premier science fiction author of his time. His writing, at least in first half of his career, focused on “hard” science fiction: stories that were broadly founded in realistic science. Indeed, as well as writing fiction, he was a professor of biochemistry, and wrote a wide variety of popular science essays and books.&lt;/p&gt;
+			&lt;p&gt;This collection brings together the few Asimov science fiction short stories that are currently known to have passed into the U.S. public domain, arranged in order of publication. It includes one focused on robots and the positronic brain, a subject that he would return to many times over his career.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Magnificent Possession (1940) -->
@@ -53,8 +53,8 @@
 		<!-- Let’s Get Together (1957) -->
 		<dc:source>https://www.gutenberg.org/ebooks/68377</dc:source>
 		<dc:source>https://archive.org/details/Infinity_v02n01_1957-02_slpn</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">22443</meta>
+		<meta property="se:reading-ease.flesch">77.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Isaac_Asimov#Short-story_collections</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/isaac-asimov_short-science-fiction</meta>
 		<dc:creator id="author">Isaac Asimov</dc:creator>
@@ -92,6 +92,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
