@@ -52,6 +52,9 @@
 		<!-- Let’s Get Together (1957) -->
 		<dc:source>https://www.gutenberg.org/ebooks/68377</dc:source>
 		<dc:source>https://archive.org/details/Infinity_v02n01_1957-02_slpn</dc:source>
+		<!-- Everest (1953) -->
+		<dc:source>https://www.gutenberg.org/ebooks/77254</dc:source>
+		<dc:source>https://archive.org/details/Universe_03_1953-12_cape1736</dc:source>
 		<meta property="se:word-count">22443</meta>
 		<meta property="se:reading-ease.flesch">77.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Isaac_Asimov#Short-story_collections</meta>
@@ -82,6 +85,9 @@
 		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-5">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Tom Trussel</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Trussel, Tom</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
@@ -95,6 +101,15 @@
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Kaiber, Hendrik</meta>
+		<meta property="se:name.person.full-name" refines="#producer-3">Hendrik de Wetterle Bonow Kaiber</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
